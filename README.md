@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edwin Jaret Santiago Díaz</h1>
 <h3 align="center">A passionate frontend/software developer from Mexico</h3>
 
-- 🔭 I’m currently working on [booking design on Platzi Master [C9]](soon)
-
+- 🔭 I’m currently working on a booking design on Platzi Master [C9]
+ 
 - 🌱 I’m currently learning **Reac and software architecture**
 
 - 🤝 I’m looking for help with **get experience and improve my coding.**
@@ -15,15 +15,15 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/](https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/)
 
-- ⚡ Fun fact **I love dance Bachata, Salsa and Electronic music.**
+- ⚡ Fun fact **I love dance Bachata, Salsa and Electronic music. I won't stop learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/edwinsanfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edwinsanfi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edwin jaret santiago díaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin jaret santiago díaz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edwin-san/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edwin jaret santiago díaz" height="30" width="40" /></a>
 <a href="https://instagram.com/edwin_san_xs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edwin_san_xs" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@jaret1246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jaret1246" height="30" width="40" /></a>
-<a href="https://discord.gg/1086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1086" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/@jaret1246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@jaret1246" height="30" width="40" /></a>
+<a href="https://discord.gg/1086" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1086" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
