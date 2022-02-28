@@ -37,9 +37,9 @@
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
  </a> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+ <!--<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/languages/c.svg" alt="c" style="vertical-align:top; margin:6px 4px">
- </a> 
+ </a>--> 
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
  </a> 
