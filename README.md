@@ -7,9 +7,9 @@
 
 - 🤝 I’m looking for help with **get experience and improve my coding.**
 
-- 👨‍💻 All of my projects are available at [https://edwinsanfi.github.io](https://edwinsanfi.github.io)
+<!-- - 👨‍💻 All of my projects are available at [https://edwinsanfi.github.io](https://edwinsanfi.github.io) -->
 
-- 💬 Ask me about **C, HTML, CSS, Wordpress, Python**
+- 💬 Ask me about **C, HTML, CSS, React, Java, Python**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/](https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/)
 
