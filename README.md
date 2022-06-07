@@ -1,5 +1,5 @@
-## <h1 align="center">Hi 👋, I'm Edwin Jaret Santiago Díaz</h1>
-<h3 align="center">A passionate frontend/software developer from Mexico</h3>
+## <h1 align="center">Hi 👋, I'm Edwin Santiago</h1>
+<h3 align="center">A passionate Software/Frontend Developer </h3>
 
 - 🔭 I’m currently working on a booking design on Platzi Master [C9]
  
