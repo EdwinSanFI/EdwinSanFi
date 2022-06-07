@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C, HTML, CSS, React, Java, Python**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/](https://www.linkedin.com/in/edwin-san/overlay/1635457251506/single-media-viewer/)
-
 - ⚡ Fun fact **I love dance Bachata, Salsa and Electronic music. I won't stop learning**
 
 <!-- Add f1-->
