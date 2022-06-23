@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Edwin Santiago</h1>
-<h3 align="center">A passionate Software/Frontend Developer </h3>
+<h3 align="center">Software/Frontend Developer</h3>
 
-- 🔭 I’m currently working on a booking design on Platzi Master [C9]
+<!-- - 🔭 I’m currently working on a booking design on Platzi Master [C9]-->
  
 - 🌱 I’m currently learning **Reac and software architecture**
 
