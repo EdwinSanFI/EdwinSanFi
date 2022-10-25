@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Edwin Santiago</h1>
 <h3 align="center">Software Developer</h3>
 
-<h6> Java, Python, C/C++, JavaScript, SQL </h6>
+<h6 align="center"> Java, Python, C/C++, JavaScript, SQL </h6>
 
 <!-- - 🔭 I’m currently working on a booking design on Platzi Master [C9]-->
  
