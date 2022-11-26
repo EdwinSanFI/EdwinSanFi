@@ -1,19 +1,20 @@
 ## <h1 align="center">Hi 👋, I'm Edwin Santiago</h1>
 <h3 align="center">Software Developer</h3>
 
-<h6 align="center"> Java, Python, C/C++, JavaScript, SQL </h6>
 
-<!-- - 🔭 I’m currently working on a booking design on Platzi Master [C9]-->
+<!-- <h6 align="center"> Java, Python, C/C++, JavaScript, SQL </h6> -->
+
+ - 🔭 I’m currently working as a Java Application Developer at IBM but on my free times I work on Flutter projects
  
-- 🌱 I’m currently learning **Reac and software architecture**
+- 🌱 I’m currently learning **Flutter and Software Architecture**
 
-- 🤝 I’m looking for help with **get experience and improve my coding.**
+- 🤝 I’m looking for help to **gain experience and improve my coding.**
 
 <!-- - 👨‍💻 All of my projects are available at [https://edwinsanfi.github.io](https://edwinsanfi.github.io) -->
 
-- 💬 Ask me about **C, HTML, CSS, React, Java, Python**
+- 💬 Ask me about **Java, Python, C, HTML, CSS, React or for a song recomendation **
 
-- ⚡ Fun fact **I love dance Bachata, Salsa and Electronic music. I won't stop learning**
+- ⚡ Fun fact **I love dance Bachata, Salsa and Techno music. I can't stop learning**
 
 <!-- Add f1-->
 <!-- Add fonts-->
