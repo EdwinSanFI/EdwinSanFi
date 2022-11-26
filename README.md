@@ -32,17 +32,17 @@
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
  </a> 
- <!-- <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
-  <img src="svg/dev/frameworks/angular.svg" alt="d3 javascript" style="vertical-align:top; margin:6px 4px">
- </a>  -->
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
+  <img src="svg/dev/languages/dart.svg" alt="dart" style="vertical-align:top; margin:6px 4px">
+ </a> 
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
+  <img src="svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
+ </a> 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
  </a> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="svg/dev/languages/java.svg" alt="angular" style="vertical-align:top; margin:6px 4px">
- </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:6px 4px">
+  <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
  </a> 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
   <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
