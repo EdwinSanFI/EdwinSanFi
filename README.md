@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Spring, Angular, Python, Django, SQL or for a song recomendation**.
 
-- ⚡ Fun fact **I love dance Bachata, Salsa and Techno music. I don't stop learning**
+- ⚡ Fun fact **I don't stop learning**.
 
 <!-- Add f1-->
 <!-- Add fonts-->
