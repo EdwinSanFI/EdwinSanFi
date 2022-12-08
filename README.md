@@ -12,7 +12,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://edwinsanfi.github.io](https://edwinsanfi.github.io) -->
 
-- 💬 Ask me about **Java, Spring, Angular, Python, Django, SQL or for a song recomendation **
+- 💬 Ask me about **Java, Spring, Angular, Python, Django, SQL or for a song recomendation**.
 
 - ⚡ Fun fact **I love dance Bachata, Salsa and Techno music. I don't stop learning**
 
