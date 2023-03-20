@@ -4,15 +4,15 @@
 
 <!-- <h6 align="center"> Java, Python, C/C++, JavaScript, SQL </h6> -->
 
- - 🔭 I’m currently working as a **Java Application Developer at IBM** and on my free times I work on small projects.
+ - 🔭 I’m currently working as a **Java Application Developer at IBM** and on my free times I work on big projects.
  
-- 🌱 I’m currently learning **Microservices and Software Architecture**.
+- 🌱 I’m currently learning **Microservices**.
 
 <!-- 🤝 I’m looking for help to **gain experience and improve my coding.** -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://edwinsanfi.github.io](https://edwinsanfi.github.io) -->
 
-- 💬 Ask me about **Java, Spring, Angular, Python, Django, SQL or for a song recomendation**.
+- 💬 Ask me about **Java, Angular, Python, SQL or for a song recomendation**.
 
 - ⚡ Fun fact **I don't stop learning**.
 
