@@ -4,7 +4,7 @@
 
 <!-- <h6 align="center"> Java, Python, C/C++, JavaScript, SQL </h6> -->
 
- - 🔭 I’m currently working as a **Java Application Developer at IBM** and on my free times I work on big projects.
+ - 🔭 I’m currently working on big projects and open for new challenges
  
 - 🌱 I’m currently learning **Microservices**.
 
