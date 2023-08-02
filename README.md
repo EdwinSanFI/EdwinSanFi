@@ -32,8 +32,8 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
- <a href="https://es.react.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"></img>
+ <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></img>
 </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS">
@@ -72,7 +72,7 @@
   <img src="https://img.shields.io/badge/blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></img>
 </a> 
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Blender"></img>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></img>
 </a> 
 
 ## Social Media
@@ -86,7 +86,7 @@
   <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></img>
 </a> 
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<a href="https://edwinsanfi.dev" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/my--web--portfolio-00A98F?style=for-the-badge&logo=pinboard&logoColor=white" alt="Web Portfolio"></img>
 </a> 
 
